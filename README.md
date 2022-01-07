@@ -9,9 +9,9 @@ Speedymz14/Speedymz14 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Visit our other sites:
-<br>https://speedymz.com</br>
-<br>https://blog.speedymz.com</br>
-<br>https://news.speedymz.com</br>
-<br>https://property.speedymz.com</br>
-<br>https://supremetools.speedymz.com (Coming soon)</br>
-<br>https://prices.speedymz.com (Coming Soon)</br>
+<br>https://superymz.com</br>
+<br>https://blog.superymz.com</br>
+<br>https://news.superymz.com</br>
+<br>https://property.superymz.com</br>
+<br>https://supremetools.superymz.com (Coming soon)</br>
+<br>https://prices.superymz.com (Coming Soon)</br>
